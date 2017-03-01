@@ -74,4 +74,4 @@ cacheSolve <- function(x, ...) {
  #---
   
 }
-Contact GitHub API Training Shop Blog About
+
